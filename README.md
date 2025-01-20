@@ -3,7 +3,7 @@
 **Контактные данные:**
 - **Email:** geraskin.gleb@gmail.com  
 - **Телефон:** +7 (916) 455-67-06  
-- **GitHub:** [github.com/username](https://github.com/GlebGerr)
+- **GitHub:** [github.com/GlebGerr](https://github.com/GlebGerr)
 
 **Желаемая должность:** Бизнес-аналитик
 
